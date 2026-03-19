@@ -28,3 +28,4 @@ Merge combines tables side by side using a matching column (like a JOIN), while 
 Append is better when you have multiple tables with the same columns and just want to combine all their rows together, like monthly sales files.
 
 
+[click here to view PDF](./PATHRICK_CABUSAS_Power_BI_Laboratory_Work_Activity_2.pdf)
