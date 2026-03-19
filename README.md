@@ -1,7 +1,4 @@
 # PowerBI-Lab-Work_2
-
-Google slides: https://docs.google.com/presentation/d/13xkduR2Cl4CSuKatXh4YfkZ2PVGKObeS2Ua7cJHHA9g/edit?usp=sharing
-
 # Guide Questions
 1. Why is removing duplicates important in data analysis?
  Duplicates cause inflated totals and inaccurate counts, leading to unreliable reports and wrong business decisions.
